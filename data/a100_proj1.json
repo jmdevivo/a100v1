@@ -1,0 +1,88 @@
+{
+	"name": "A100 Home",
+	"abstract": "Important & general information about A100",
+	"children": [
+		{
+			"name": "Apply",
+			"abstract": "Link to apply page"
+		},
+		{
+			"name": "Applicants",
+			"abstract": "Information relevant to student applicants",
+			"children": [
+				{
+					"name": "Apply",
+					"abstract": "Link to apply page",
+					"children": [
+						{ 
+							"name": "Apply page",
+							"abstract": "Students' application form"
+						}
+					]
+				},
+				{
+					"name": "Requirements",
+					"abstract": "What we expect from applicants"
+				},
+				{
+					"name": "Benefits",
+					"abstract": "What applicants get from A100"
+				},
+				{
+					"name": "Schedule",
+					"abstract": "All the relevant timelines/calendars"
+				}
+			]
+		},
+		{
+			"name": "Partner Companies",
+			"abstract": "Information for partners",
+			"children": [
+				{
+					"name": "Apply",
+					"abstract": "Become a partner",
+					"children": [
+						{ 
+							"name": "Apply page",
+							"abstract": "Partners' application form"
+						}
+					]
+				},
+				{
+					"name": "Requirements",
+					"abstract": "What we require from partner companies"
+				},
+				{
+					"name": "Benefits",
+					"abstract": "How partners will benefit"
+				},
+				{
+					"name": "Schedule",
+					"abstract": "Relevant dates/deadlines/etc"
+				}
+			]
+		},
+		{
+			"name": "About us",
+			"abstract": "Pertinent A100 info",
+			"children": [
+				{
+					"name": "Location/Map",
+					"abstract": "Where are we?"
+				},
+				{
+					"name": "Phone/Email/Chat",
+					"abstract": "Ways to reach us directly"
+				},
+				{
+					"name": "Hours/Calendar",
+					"abstract": "All the time related info"
+				}
+			]
+		},
+		{
+			"name": "News/Blog",
+			"abstract": "News/Twitter/Blog"
+		}
+	]
+}
